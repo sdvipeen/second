@@ -1,0 +1,4 @@
+eafcc07 adding file second.txt
+4e6de01 added hi
+949a2dd added a new line to second.txt
+3b70c0a my first checkin
